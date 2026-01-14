@@ -23,12 +23,12 @@ const config = {
   url: 'https://tkervel.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/tkervel.github.io/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'tkervel', // Usually your GitHub org/user name.
-  projectName: 'tkervel.github.io', // Usually your repo name.
+  projectName: 'my-portfolio', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
