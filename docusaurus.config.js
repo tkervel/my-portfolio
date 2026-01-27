@@ -80,9 +80,9 @@ const config = {
 
 scripts: [
   {
-    src: "https://plausible.io/js/script.js",
-    defer: true,
-    "data-domain": "tkervel.github.io"
+    src: "https://cloud.umami.is/script.js",
+    async: true, 
+    "data-website-id": "df7e0ee0-947b-4c6d-8bbb-d07b95782098"
   }
 ],
 
